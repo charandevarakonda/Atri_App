@@ -1,0 +1,14 @@
+{
+  "burger.jpg": {
+    "mime": "image/jpeg"
+  },
+  "fonts.jpg": {
+    "mime": "image/jpeg"
+  },
+  "restIcon.jpg": {
+    "mime": "image/jpeg"
+  },
+  "foodPic.jpg": {
+    "mime": "image/jpeg"
+  }
+}
