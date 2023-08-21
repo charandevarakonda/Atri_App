@@ -1,4 +1,4 @@
 --> Ensure pipenv is installed befor running
---> Open the command prompt, change the directory to downloaded fold 
+--> Open the command prompt, change the directory to downloaded folder
 --> Now run "atri start"
 --> Open "http://localhost:4002" 
